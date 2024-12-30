@@ -25,14 +25,14 @@ const Footer = () => {
             <div>
                 <p className='text-xl font-medium mb-5'>GET IN TOUCH</p>
                 <ul className='flex flex-col gap-1 text-gray-600'>
-                    <li>+917322876382</li>
-                    <li>contact@kecomtoyou.com</li>
+                    <li>+919267999376</li>
+                    <li>freelancer.software.dev@gmail.com</li>
                 </ul>
             </div>
         </div>
         <div>
         <hr />
-            <p className='py-5 text-m text-center'>Copyright @2024 kecom.com - All Right Reserved.</p>
+            <p className='py-5 text-m text-center'>Copyright @2024 baskitnest.com - All Right Reserved.</p>
         </div>
     </div>
   )
